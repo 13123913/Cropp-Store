@@ -85,7 +85,7 @@ export const Main = ({ setCard }) => {
       img: "https://storage.vsemayki.ru/images/0/3/3013/3013735/previews/people_1_men_longsleeves_oversize_front_white_500.jpg",
       title: "Алый Король",
       cost: "1745",
-      opis: "https://www.vsemayki.ru/product/men_longsleeves_oversize/3013735?color=white",
+      opis: "Лонгслив — это футболка с длинным рукавом из дышащего, приятного для тела хлопка. Печать производится современным инновационным способом путем переноса пигмента непосредственно на полотно для создания ярких и долговечных изображений.",
       category: "Л",
       desc: "Код товара: 438357323",
     },
